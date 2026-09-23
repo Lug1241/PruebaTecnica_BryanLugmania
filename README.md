@@ -53,7 +53,7 @@ PASO 2: CONFIGURAR Y EJECUTAR EL BACKEND (.NET 10 WEB API)
 
 5. Comprueba que esté en funcionamiento abriendo Swagger en tu navegador:
    https://localhost:7256/swagger
-
+6. Ejecutar la colección de postam para tener datos de prueba
 --------------------------------------------------------------------
 PASO 3: CONFIGURAR Y EJECUTAR EL FRONTEND (NEXT.JS)
 --------------------------------------------------------------------
