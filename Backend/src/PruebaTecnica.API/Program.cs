@@ -1,6 +1,7 @@
 using PruebaTecnica.Core.Interfaces;
 using PruebaTecnica.Infrastructure.Data;
 using PruebaTecnica.Infrastructure.Repositories;
+using Swashbuckle.AspNetCore.SwaggerGen;
 
 var builder = WebApplication.CreateBuilder(args);
 
