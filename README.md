@@ -29,7 +29,7 @@ PASO 1: CONFIGURAR LA BASE DE DATOS (SQL SERVER)
    - DataBase/sp_EliminarUsuarioMasivo.sql
 
 --------------------------------------------------------------------
-PASO 2: CONFIGURAR Y EJECUTAR EL BACKEND (.NET 8 WEB API)
+PASO 2: CONFIGURAR Y EJECUTAR EL BACKEND (.NET 10 WEB API)
 --------------------------------------------------------------------
 1. Abre una terminal de comandos (PowerShell o CMD) y entra a la 
    carpeta del proyecto API:
