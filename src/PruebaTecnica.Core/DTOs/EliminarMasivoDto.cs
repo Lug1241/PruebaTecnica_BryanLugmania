@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿namespace PruebaTecnica.Core.DTOs;
 
-namespace PruebaTecnica.Core.DTOs
+public class EliminarMasivoDto
 {
-    internal class EliminarMasivoDto
-    {
-    }
+    public List<int> Ids { get; set; } = new();
 }

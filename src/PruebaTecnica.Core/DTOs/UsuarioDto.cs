@@ -1,10 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿namespace PruebaTecnica.Core.DTOs;
 
-namespace PruebaTecnica.Core.DTOs
+public class UsuarioDto
 {
-    internal class UsuarioDto
-    {
-    }
+    public int IdUsuario { get; set; }
+    public string Nombre { get; set; } = string.Empty;
+    public string Apellido { get; set; } = string.Empty;
+    public string Correo { get; set; } = string.Empty;
+    public string Rol { get; set; } = string.Empty;
+    public bool Estado { get; set; }
+    public DateTime FechaCreacion { get; set; }
 }
